@@ -1,0 +1,17 @@
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Services.deps.json
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Services.dll
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\bin\Debug\net5.0\ref\RepositoryPattern.Services.dll
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Services.pdb
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Data.dll
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Data.pdb
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\bin\Debug\net5.0\RepositoryPattern.Domain.pdb
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.csproj.AssemblyReference.cache
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.AssemblyInfoInputs.cache
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.AssemblyInfo.cs
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.dll
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\obj\Debug\net5.0\ref\RepositoryPattern.Services.dll
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.pdb
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Services\obj\Debug\net5.0\RepositoryPattern.Services.csproj.CopyComplete

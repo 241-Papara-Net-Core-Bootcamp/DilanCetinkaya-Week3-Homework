@@ -1,0 +1,12 @@
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.deps.json
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\bin\Debug\net5.0\ref\RepositoryPattern.Domain.dll
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\bin\Debug\net5.0\RepositoryPattern.Domain.pdb
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.csproj.AssemblyReference.cache
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.AssemblyInfo.cs
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.dll
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\obj\Debug\net5.0\ref\RepositoryPattern.Domain.dll
+C:\Users\dilan\Desktop\Papara\RepositoryPattern.API\RepositoryPattern.Domain\obj\Debug\net5.0\RepositoryPattern.Domain.pdb
